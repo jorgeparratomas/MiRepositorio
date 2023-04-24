@@ -1,5 +1,10 @@
 package training.spring.restful.domain;
 
+/**
+ * 
+ * @author Jorge
+ *
+ */
 public class Producto {
 	private Long id;
 	private String nombre;
